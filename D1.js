@@ -27,12 +27,15 @@ null; // indica che la variabile non ha un valore INTENZIONALMENTE
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 let myName = "Marco";
+console.log(myName);
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+console.log("12+20=", 12 + 20);
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
