@@ -43,6 +43,9 @@ console.log("12+20=", 12 + 20);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+let x = 12;
+console.log(x);
+
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
