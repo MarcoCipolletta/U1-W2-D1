@@ -15,6 +15,10 @@ REGOLE
 
 // I principali datatype sono: string, number, boolean, undefined e null.
 String; // indica una sequenza di caratteri, quindi una parola o una frase e viene definita tramite l' utilizzo di apici (melgio doppi (""))
+Number; // indica i numeri senza distinzione tra interi e decimali. // il decimale si esprime con il punto
+Boolean; // ammette due soli valori: vero (true) o falso (false). è utile per far prendere decisioni al codice
+undefined; // indica che una variabile non ha ancora un valore assegnato
+null; // indica che la variabile non ha un valore INTENZIONALMENTE
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
