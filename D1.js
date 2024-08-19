@@ -52,6 +52,13 @@ console.log(x);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+myName = "Cipolletta";
+console.log(myName);
+
+const esempio = "ciao";
+console.log(esempio);
+
+/*  esempio = "non si fa!"; //levare il commento per mostrare l'errore */
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
