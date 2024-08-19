@@ -13,7 +13,7 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-// I principali datatype sono: string, number, boolean, undefined e null.
+"I principali datatype sono: string, number, boolean, undefined e null.";
 String; // indica una sequenza di caratteri, quindi una parola o una frase e viene definita tramite l' utilizzo di apici (melgio doppi (""))
 Number; // indica i numeri senza distinzione tra interi e decimali. // il decimale si esprime con il punto
 Boolean; // ammette due soli valori: vero (true) o falso (false). è utile per far prendere decisioni al codice
@@ -52,19 +52,22 @@ console.log(x);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 myName = "Cipolletta";
 console.log(myName);
 
 const esempio = "ciao";
 console.log(esempio);
 
-/*  esempio = "non si fa!"; //levare il commento per mostrare l'errore */
+/*  esempio = "non si fa!"; // levare il commento per mostrare l'errore */
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+console.log(4 - x);
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
